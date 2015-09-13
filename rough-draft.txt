@@ -1,0 +1,5 @@
+One command
+"presentation:show" (toggles full screen) (read from localhost address??? perhaps)
+
+Add listener to
+"window:toggle-full-screen" (to hide presentation)
